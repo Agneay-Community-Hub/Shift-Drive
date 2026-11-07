@@ -3,6 +3,16 @@
 **A racing game where every gear changes the rules.**
 Made for [GitHub Game Off 2026](https://itch.io/jam/game-off-2026), whose theme is **SHIFT**.
 
+## 🎬 Trailer
+
+[![SHIFT DRIVE trailer: click to watch](Media/ShiftDrive_Thumbnail.jpg)](Media/ShiftDrive_Trailer.mp4)
+
+*Click the image to watch the 30-second trailer. Every shot is real gameplay.*
+
+## ⬇️ Download
+
+**Windows:** grab `ShiftDrive-Windows-x64.zip` from the [latest release](https://github.com/Agneay-Community-Hub/Shift-Drive/releases/latest), unzip it, and run `ShiftDrive.exe`.
+
 Shifting gears changes more than your speed:
 
 | Gear | Name | What it does |
